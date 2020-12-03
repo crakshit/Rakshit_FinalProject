@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+
+    <string-array name="transaction_type">
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+</resources>
